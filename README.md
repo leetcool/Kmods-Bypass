@@ -3,7 +3,8 @@
 Original Developer of ESP is Kuldip (https://github.com/kp7742)
 
 I'm making this a public release because some scammers were trying to sell my file for higher prices.
-
+# Note
+working for version 13.0 & 13.5 Only
 # Donations Info
 Ping me on telegram @leetcool if you feel like dropping donations.
 
